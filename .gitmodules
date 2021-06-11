@@ -10,7 +10,7 @@
 	url = https://github.com/gabime/spdlog.git
 [submodule "extern/libyuv/src"]
 	path = extern/libyuv/src
-	url = https://chromium.googlesource.com/libyuv/libyuv
+	url = https://github.com/lemenkov/libyuv
 [submodule "extern/libmatroska/src"]
 	path = extern/libmatroska/src
 	url = https://github.com/Matroska-Org/libmatroska.git
