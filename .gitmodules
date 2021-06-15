@@ -22,7 +22,7 @@
 	url = https://github.com/ocornut/imgui.git
 [submodule "extern/googletest/src"]
 	path = extern/googletest/src
-	url = https://github.com/google/googletest
+	url = git://github.com/google/googletest.git
 [submodule "extern/glfw/src"]
 	path = extern/glfw/src
 	url = https://github.com/glfw/glfw
