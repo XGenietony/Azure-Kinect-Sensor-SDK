@@ -57,7 +57,7 @@ endif()
 # lower than CMake 3.3
 set(CMAKE_POLICY_DEFAULT_CMP0063 NEW)
 
-add_subdirectory(azure_c_shared)
+
 add_subdirectory(cjson)
 add_subdirectory(glfw)
 add_subdirectory(googletest)
@@ -69,6 +69,7 @@ add_subdirectory(libsoundio)
 add_subdirectory(libyuv)
 add_subdirectory(libuvc)
 add_subdirectory(spdlog)
+add_subdirectory(azure_c_shared)
 if (NOT ${CMAKE_SYSTEM_NAME} STREQUAL "WindowsStore")
     add_subdirectory(libusb)
 endif()
