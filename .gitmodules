@@ -3,7 +3,7 @@
 	url = git://github.com/DaveGamble/cJSON.git
 [submodule "extern/azure_c_shared/src"]
 	path = extern/azure_c_shared/src
-	url = https://gitee.com/hailuntaile/azure-c-shared-utility.git
+	url = https://github.com/Azure/azure-c-shared-utility.git
 	branch = master
 [submodule "extern/spdlog/src"]
 	path = extern/spdlog/src
