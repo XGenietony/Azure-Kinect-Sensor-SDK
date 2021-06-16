@@ -1,6 +1,6 @@
 [submodule "extern/cjson/src"]
 	path = extern/cjson/src
-	url = git://github.com/DaveGamble/cJSON.git
+	url = https://gitee.com/miao123456miao/cJSON.git
 [submodule "extern/azure_c_shared/src"]
 	path = extern/azure_c_shared/src
 	url = https://gitee.com/hailuntaile/azure-c-shared-utility.git
