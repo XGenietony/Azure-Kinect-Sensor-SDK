@@ -10,7 +10,7 @@
 	url = https://gitee.com/hejuncheng1/spdlog.git
 [submodule "extern/libyuv/src"]
 	path = extern/libyuv/src
-	url = https://github.com/lemenkov/libyuv
+	url = https://gitee.com/xthuang/libyuv.git
 [submodule "extern/libmatroska/src"]
 	path = extern/libmatroska/src
 	url = https://gitee.com/rzkn/libmatroska.git
