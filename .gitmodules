@@ -22,7 +22,7 @@
 	url = https://gitee.com/hellowanda/imgui.git
 [submodule "extern/googletest/src"]
 	path = extern/googletest/src
-	url = git://github.com/google/googletest.git
+	url = https://gitee.com/longing/googletest.git
 [submodule "extern/glfw/src"]
 	path = extern/glfw/src
 	url = https://gitee.com/scu319hy/glfw.git
