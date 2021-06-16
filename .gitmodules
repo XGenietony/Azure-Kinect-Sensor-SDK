@@ -34,7 +34,7 @@
 	url = https://gitee.com/mirrors/libjpeg-turbo.git
 [submodule "extern/libusb/src"]
 	path = extern/libusb/src
-	url = https://github.com/libusb/libusb.git
+	url = https://gitee.com/daimaxiaozi/libusb.git
 [submodule "extern/libuvc/src"]
 	path = extern/libuvc/src
 	url = https://gitee.com/wdb111/libuvc.git
