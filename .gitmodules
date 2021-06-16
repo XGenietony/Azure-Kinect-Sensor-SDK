@@ -31,7 +31,7 @@
 	url = https://gitee.com/alone-wl/libsoundio.git
 [submodule "extern/libjpeg-turbo/src"]
 	path = extern/libjpeg-turbo/src
-	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
+	url = https://gitee.com/mirrors/libjpeg-turbo.git
 [submodule "extern/libusb/src"]
 	path = extern/libusb/src
 	url = https://github.com/libusb/libusb.git
