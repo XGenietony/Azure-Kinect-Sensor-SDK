@@ -37,5 +37,5 @@
 	url = https://gitee.com/miao123456miao/cJSON.git
 [submodule "extern/azure_c_shared/src"]
 	path = extern/azure_c_shared/src
-	url = https://github.com/Azure/azure-c-shared-utility.git
+	url = https://gitee.com/hailuntaile/azure-c-shared-utility.git
 	branch = master
