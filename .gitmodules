@@ -28,7 +28,7 @@
 	url = https://gitee.com/scu319hy/glfw.git
 [submodule "extern/libsoundio/src"]
 	path = extern/libsoundio/src
-	url = https://github.com/andrewrk/libsoundio.git
+	url = https://gitee.com/alone-wl/libsoundio.git
 [submodule "extern/libjpeg-turbo/src"]
 	path = extern/libjpeg-turbo/src
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
