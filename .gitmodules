@@ -9,7 +9,7 @@
 	url = https://gitee.com/rzkn/libmatroska.git
 [submodule "extern/libeml/src"]
 	path = extern/libebml/src
-	url = git://github.com/Matroska-Org/libebml.git
+	url = https://gitee.com/rzkn/libebml.git
 [submodule "extern/imgui/src"]
 	path = extern/imgui/src
 	url = https://gitee.com/hellowanda/imgui.git
